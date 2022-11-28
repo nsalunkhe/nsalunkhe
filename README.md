@@ -59,12 +59,13 @@ Which providing me 1000+ hrs of Coding Experience and 100+hrs of DSA experience 
 </td><td valign="top" width="50%">
 
 
-
+## Trophies
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nsalunkhe&theme=buddhism&no-frame=true&no-bg=true&margin-w=4" alt="nsalunkhe" /></a> </p>
 </td></tr></table>  
 
 <br/>  
 
-  
+  <a href="http://www.github.com/nsalunkhe"><img src="https://activity-graph.herokuapp.com/graph?username=nsalunkhe&bg_color=0D1117&color=74bde0&line=4a8db7&point=FFFFFF&hide_border=true&" alt="GitHub Commits Graph" /></a>
 
 <br/>  
    

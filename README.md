@@ -1,27 +1,33 @@
 ## Hey 👋, I'm Niranjan Salunkhe !  
-  
 
 
 
 ### Student of Masai School !  
-Which providing me 1000+ hrs of Coding Experience and 100+hrs of DSA experience with Military style coding. here I have learned how to devote yourself to what you are learning and how to survive in tech field.  
+<img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/167121800/original/91edbdbc9875196cc50f56337f4e1aea00534b12/your-awesome-mern-stack-developer.jpg"/>
   
 
 <br/>  
 
 
 <table><tr><td valign="top" width="50%">
+- ⚡  Little bit about me:
 
-- 🔭 I’m currently working on [Jcrew.com(clone)](https://github.com/nsalunkhe/honorable-furniture-4728)  
+- 🔭 Though I hold Bachelor’s degree in Chemistry, 
   
+- ✨ I become a Full Stack (MERN) web developer.
 
 - 🌱 Developing myself from scratch in this  tech field  
   
+- 🌱 I’m actively looking for opportunities.
+  
+-  🌍 I’m based in Sangli,Maharashtra
+  
+-  Visit my <a href="https://nsalunkhe-portfolio.netlify.app">Portfolio</a> and <a href="https://drive.google.com/file/d/1wYWOG9D9bu_KulJpwuMQc-r8goDkDg2n/view?usp=sharing">Resume</a> for more details.  
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ trying to learning some new tech skills also  
+
 
 
 </td><td valign="top" width="50%">

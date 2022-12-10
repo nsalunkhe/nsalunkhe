@@ -27,7 +27,7 @@ Which providing me 1000+ hrs of Coding Experience and 100+hrs of DSA experience 
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="center" style="width: 100%" />
 </div>  
 
 

@@ -25,15 +25,15 @@
 -  Visit my <a href="https://nsalunkhe-portfolio.netlify.app">Portfolio</a> and <a href="https://drive.google.com/file/d/1wYWOG9D9bu_KulJpwuMQc-r8goDkDg2n/view?usp=sharing">Resume</a> for more details.  
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
-  
 
-
-
+  <div align="center" display:"flex">  
+    <img src="https://thumbs.dreamstime.com/b/handshake-two-leaders-over-black-background-25637255.jpg" height="100" width="100"/>
+ 
 
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="center" style="width: 100%" />
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="center" style="width: 100%" background-color:"black" />
 </div>  
 
 

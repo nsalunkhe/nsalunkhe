@@ -22,7 +22,9 @@
   
 -  🌍 I’m based in Sangli,Maharashtra
   
--  Visit my <a href="https://nsalunkhe-portfolio.netlify.app">Portfolio</a> and <a href="https://drive.google.com/file/d/1wYWOG9D9bu_KulJpwuMQc-r8goDkDg2n/view?usp=sharing">Resume</a> for more details.  
+- <a href="https://nsalunkhe-portfolio.netlify.app">Portfolio</a> 
+- <a href="https://drive.google.com/file/d/1wYWOG9D9bu_KulJpwuMQc-r8goDkDg2n/view?usp=sharing">Resume</a>
+- <a href="https://www.linkedin.com/in/niranjan-salunkhe/">Linkedin</a> 
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
 

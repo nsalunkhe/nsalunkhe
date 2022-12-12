@@ -35,7 +35,8 @@
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://camo.githubusercontent.com/12e5f2b182da4b52850b29bb09e8ba3e92b0ac2c0bd121de7dfcbb291fbbd525/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966" align="center" style="width: 100%" background-color:"black" />
+<img src="https://camo.githubusercontent.com/12e5f2b182da4b52850b29bb09e8ba3e92b0ac2c0bd121de7dfcbb291fbbd525/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966" align="center" style="width: 100%"  background-color:"black" />
+  <img src="https://wallpaperaccess.com/full/7167590.jpg" align="center" style= background-color:"black",border:"black" />
 </div>  
  
 

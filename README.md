@@ -22,7 +22,7 @@
   
 -  🌍 I’m based in Sangli,Maharashtra
   
-- <a href="https://nsalunkhe-portfolio.netlify.app">Portfolio</a> 
+- <a href="https://nsalunkhe.github.io/">Portfolio</a> 
 - <a href="https://drive.google.com/file/d/1wYWOG9D9bu_KulJpwuMQc-r8goDkDg2n/view?usp=sharing">Resume</a>
 - <a href="https://www.linkedin.com/in/niranjan-salunkhe/">Linkedin</a> 
 
